@@ -1,6 +1,27 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+    "title": "Prepare invoices",
+    "text": "Prepare and send all invoices promptly to maintain a healthy cashflow.",
+    "id": "xwpjutglot"
+    },
+    {
+    "title": "Check inventory",
+    "text": "Communicate with  suppliers about items low in inventory",
+    "id": "4sdo7srzk7"
+    },
+    {
+    "title": "Follow up with clients",
+    "text": "Send a friendly follow-up email to our clients ",
+    "id": "tgpkvy3hcn"
+    },
+    {
+    "title": "Call the bank",
+    "text": "Ensure you keep a daily record of incoming and outgoing payments too.",
+    "id": "ibtkuyv7zb"
+    },
+    {
+    "title": "Schedule staff meeting",
+    "text": "Find a time that works for everyone and send out a zoom teams meeting",
+    "id": "mfubc8fswp"
     }
 ]

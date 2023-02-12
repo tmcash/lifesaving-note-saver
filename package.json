@@ -4,11 +4,11 @@
     "description": "",
     "main": "server.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "",
-    "license": "ISC",
+    "author": "Tyler Cash",
+    "license": "MIT",
     "dependencies": {
-      "express": "^4.16.4"
+    "express": "^4.16.4"
     }
-  }
+}
